@@ -12,13 +12,14 @@ For this project, I will research, write, and film an entire curriculum that tea
 * Select the appropriate security controls for your cloud infrastructure
 * Express the security implications of AWS in a professional and concise manner
 * Detect and Respond to security incidents
-# [[Lesson Plan]]
-# [Video Lesson 1: VPC](https://drive.google.com/file/d/1tkJjcQGAQbKLJOqiBVwAP1zJOTQIW06r/view?usp=sharing)
-# [Video Lesson 2: Data Security](https://drive.google.com/file/d/1p7HwnC5Gvw01kvZz8hOtV-I2Xxluz_Mk/view?usp=sharing)
-# Reflections
-* [[Week 2 Reflection]]
-* [[Week 3 Reflection]]
-* [[Week 4 Reflection]]
-* [[Week 5 Reflection]]
-* [[Week 6 Reflection]]
-* [[Week 7 Reflection]]
+# Lesson Plan
+### Lesson 1
+The first lesson is all about virtual private cloud security. I will show hands-on how to create one and how to secure it. This lesson will show the listener the different connectivity options that are provided by AWS. We will also discuss how to create a hybrid cloud, public cloud, and of course a private cloud. 
+### Lesson 2
+Lesson 2 is all about data security. We will discuss encrypting the data at rest and how to use AWS data storage services. 
+### Lesson 3
+Lesson 3 is all about securing your serves through threat assesment and agent-based security checks. We will also be discussing virtual firewalls. 
+### Lesson 4
+Lesson 4 is about securing AWS applications. Here the listener is introduced to ways to secure all their apps that are developed/deployed. The lister will learn about web application firewall and a few other services used by developers for security. 
+### Lesson 5
+"AWS security best practices" will walk the listener through an overvie2w of best practice for securing all resources on AWS. This will be concise and not too specific.
