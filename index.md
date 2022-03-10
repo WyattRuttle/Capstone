@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/WyattRuttle/Capstone/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WyattRuttle/Capstone/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Video tutorials for AWS Cloud Security
+# Video tutorials for AWS Cloud Security
+## Abstract
+Organizations are transitioning their environments to the cloud at a rapid pace. This fundamental change has had a major impact on the way security professionals secure, organize, and monitor their environments. While cloud computing services provide security controls, it is crucial that their customers understand the level of responsibility for security and compliance that they share. 
+This capstone will deliver free online video tutorials to inform companies and enthusiasts about their share of security responsibilities when setting up and operating an AWS cloud environment. The tutorials follow a concise five-lesson plan in which the viewer learns best security practices for VPC, IAM, and the shared security responsibility model
+# Overview
+With organizations moving their work to the cloud at an unprecedented pace, the shift in security has been chaotic. While AWS provides many features to keep their clients secure, many clients do not know that they are responsible for much of the security on their own. This video series aims to both solve this problem and give the opportunity to help those that want to learn about cloud security. 
+# Description
+For this project, I will research, write, and film an entire curriculum that teaches a user how to create and secure an AWS environment. The tutorials aim to:
+* Learn the basics of operating an AWS environment
+* Identify the risks of the services offered by AWS
+* Select the appropriate security controls for your cloud infrastructure
+* Express the security implications of AWS in a professional and concise manner
+* Detect and Respond to security incidents
+# [[Lesson Plan]]
+# [Video Lesson 1: VPC](https://drive.google.com/file/d/1tkJjcQGAQbKLJOqiBVwAP1zJOTQIW06r/view?usp=sharing)
+# [Video Lesson 2: Data Security](https://drive.google.com/file/d/1p7HwnC5Gvw01kvZz8hOtV-I2Xxluz_Mk/view?usp=sharing)
+# Reflections
+* [[Week 2 Reflection]]
+* [[Week 3 Reflection]]
+* [[Week 4 Reflection]]
+* [[Week 5 Reflection]]
+* [[Week 6 Reflection]]
+* [[Week 7 Reflection]]
